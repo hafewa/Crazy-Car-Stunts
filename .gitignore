@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:006e6897c2ef52eb67c31cc189892bd8c67ec0a91d6932881fe751c8d35d4e52
-size 246
+# Unity 生成的目录
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Unity 生成的文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
